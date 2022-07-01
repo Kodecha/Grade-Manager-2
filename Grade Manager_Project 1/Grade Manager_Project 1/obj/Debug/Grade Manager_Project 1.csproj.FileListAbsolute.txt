@@ -1,0 +1,8 @@
+C:\Users\kunde\Desktop\Programs\Claim\Grade Manager_Project 1\Grade Manager_Project 1\obj\Debug\Grade Manager_Project 1.csproj.AssemblyReference.cache
+C:\Users\kunde\Desktop\Programs\Claim\Grade Manager_Project 1\Grade Manager_Project 1\obj\Debug\Grade Manager_Project 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kunde\Desktop\Programs\Claim\Grade Manager_Project 1\Grade Manager_Project 1\obj\Debug\Grade Manager_Project 1.csproj.CoreCompileInputs.cache
+C:\Users\kunde\Desktop\Programs\Claim\Grade Manager_Project 1\Grade Manager_Project 1\bin\Debug\Grade Manager_Project 1.exe.config
+C:\Users\kunde\Desktop\Programs\Claim\Grade Manager_Project 1\Grade Manager_Project 1\bin\Debug\Grade Manager_Project 1.exe
+C:\Users\kunde\Desktop\Programs\Claim\Grade Manager_Project 1\Grade Manager_Project 1\bin\Debug\Grade Manager_Project 1.pdb
+C:\Users\kunde\Desktop\Programs\Claim\Grade Manager_Project 1\Grade Manager_Project 1\obj\Debug\Grade Manager_Project 1.exe
+C:\Users\kunde\Desktop\Programs\Claim\Grade Manager_Project 1\Grade Manager_Project 1\obj\Debug\Grade Manager_Project 1.pdb
